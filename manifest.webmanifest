@@ -1,0 +1,19 @@
+{
+  "name": "Nigerian WHOT — Landscape Edition",
+  "short_name": "Nigerian WHOT",
+  "description": "Nigerian WHOT card game with offline play.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#4E342E",
+  "theme_color": "#A51C30",
+  "icons": [
+    {
+      "src": "./whot-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
